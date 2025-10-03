@@ -24,11 +24,14 @@ Next, change it to Debug configuration and build it using the same steps.<br>
 <br><br>
 
 # Ready?
+When you create a new project using Raylib_Empty_Project, an empty project (with Raylib already configured) will open, as shown in the image below.<br>
+<img width="889" height="625" alt="スクリーンショット 2025-10-03 214515" src="https://github.com/user-attachments/assets/8fc93055-d3b0-48fa-9cbc-f4e93a2e57e6" /><br>
+
 # Let's start your raylib coding adventure from scratch!
+Alright! Let's add the main.c file to the project and write a simple "Hello World!" program!<br>
+<img width="971" height="625" alt="スクリーンショット 2025-10-03 223913" src="https://github.com/user-attachments/assets/e2888fa9-8c6f-4fa6-8b00-8092a1cfad8f" /><br>
+Let's run it by pressing F5!<br><br>
+
 # Perhaps this is truly the Spartan-programmer's way!?
-
-<br><br>
-
-
 
 Thanks to Ramon Santamaria for developing raylib 🙏✨
