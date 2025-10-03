@@ -32,6 +32,7 @@ When you create a new project using Raylib_Empty_Project, an empty project (with
 Alright! Let's add the main.c file to the project and write a simple "Hello World!" program!<br>
 <img width="971" height="625" alt="スクリーンショット 2025-10-03 223913" src="https://github.com/user-attachments/assets/e2888fa9-8c6f-4fa6-8b00-8092a1cfad8f" /><br>
 Let's run it by pressing F5!<br><br>
+<img width="802" height="632" alt="スクリーンショット 2025-10-03 232439" src="https://github.com/user-attachments/assets/5d613b09-9dcd-4453-adc1-6c0fa964df20" />
 
 # Perhaps this is truly the Spartan-programmer's way!?
 
