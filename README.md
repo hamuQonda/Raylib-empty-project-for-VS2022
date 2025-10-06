@@ -30,6 +30,27 @@ When you create a new project using Raylib_Empty_Project, an empty project (with
 
 # Let's start your raylib coding adventure from scratch!
 Alright! Let's add the main.c file to the project and write a simple "Hello World!" program!<br>
+  ```
+    #include "raylib"
+
+    int main() {
+      InitWindow(800, 600, "Hello, raylib world");
+      SetTargetFPS(60);
+
+      while (!WindowShouldClose()) {
+        BeginDrawing();
+        ClearBackground(RAYWHITE);
+
+        DrawText("Hello, raylib world !", 150, 250, 60, PINK);
+
+        EndDrawing();
+      }
+
+      CloseWindow();
+      return 0;
+    }
+  ```
+
 <img width="971" height="625" alt="スクリーンショット 2025-10-03 223913" src="https://github.com/user-attachments/assets/e2888fa9-8c6f-4fa6-8b00-8092a1cfad8f" /><br>
 Let's run it by pressing F5!<br><br>
 <img width="802" height="632" alt="スクリーンショット 2025-10-03 232439" src="https://github.com/user-attachments/assets/5d613b09-9dcd-4453-adc1-6c0fa964df20" />
